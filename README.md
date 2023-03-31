@@ -1,4 +1,4 @@
-# JavaScript Vanilla calculator
+# JavaScript Vanilla Calculator
 
 Calculator app
 
